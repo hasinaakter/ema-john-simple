@@ -1,0 +1,8 @@
+.cart{
+    position: sticky;
+    top: 5px;
+    padding: 20px 10px;
+}
+.cart p{
+    margin-right: 50%;
+}
